@@ -17,7 +17,7 @@ i'm currently learning about web
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<h2>✨ Objectifs</h2>
+<h2>✨ Goals</h2>
 <ul>
   <li>🤖 Approfondir mes connaissances en intelligence artificielle.</li>
   <li>🛠️ Explorer et intégrer Symfony avec Next.js pour mes projets.</li>
@@ -25,7 +25,7 @@ i'm currently learning about web
   <li>🌍 Travailler sur des projets innovants et collaboratifs.</li>
 </ul>
 
-<h2>📞 Me Contacter</h2>
+<h2>📞 Contact me</h2>
 <ul>
   <li>📧 Email : <a href="mailto:bensadi.nadir42400@gmail.com">bensadi.nadir42400@gmail.com</a></li>
   <li>👨‍🎓 LinkedIn : <a href="https://www.linkedin.com/in/nadir-bensadi-847aab226/" target="_blank">Mon profil LinkedIn</a></li>
