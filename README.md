@@ -17,7 +17,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Nadir-Bsd&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <h2>✨ Goals</h2>
 <ul>
@@ -30,8 +29,12 @@
 
 <h2>📞 Contact Me</h2>
 <ul>
-  <li>📧 Email: <a href="mailto:bensadi.nadir42400@gmail.com">bensadi.nadir42400@gmail.com  ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nadir-bensadi-847aab226/)</a></li>
+  <li>📧 Email: <a href="mailto:bensadi.nadir42400@gmail.com">bensadi.nadir42400@gmail.com </a></li>
   <li>👨‍🎓 LinkedIn: <a href="https://www.linkedin.com/in/nadir-bensadi-847aab226/" target="_blank">My LinkedIn Profile</a></li>
 </ul>
- ![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bensadi.nadir42400@gmail.com) 
+
+![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bensadi.nadir42400@gmail.com)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nadir-bensadi-847aab226/)
+ 
+ <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
