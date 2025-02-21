@@ -33,8 +33,8 @@
   <li>👨‍🎓 LinkedIn: <a href="https://www.linkedin.com/in/nadir-bensadi-847aab226/" target="_blank">My LinkedIn Profile</a></li>
 </ul>
 
-![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bensadi.nadir42400@gmail.com)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nadir-bensadi-847aab226/)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bensadi.nadir42400@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nadir-bensadi-847aab226/)
  
  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
