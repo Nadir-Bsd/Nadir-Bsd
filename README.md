@@ -2,7 +2,7 @@
 <ul>
   <li>🌐 Currently learning web development.</li>
   <li>🤖 Passionate about artificial intelligence and its integration into my projects.</li>
-  <li>🛠️ Experimenting with Symfony, Next.js, and other backend technologies.</li>
+  <li>🛠️ Experimenting with Symfony, Next.js, and other backend and frontend technologies.</li>
   <li>🎮 Interested in creating games and interactive 3D experiences.</li>
   <li>🏋️‍♂️ Enjoys spearfishing, calisthenics, and football outside of coding.</li>
 </ul>
