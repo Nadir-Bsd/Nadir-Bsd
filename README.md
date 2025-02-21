@@ -1,6 +1,11 @@
-# 💫 About Me:
-i'm currently learning about web
-
+<h2>💫 About Me</h2>
+<ul>
+  <li>🌐 Currently learning web development.</li>
+  <li>🤖 Passionate about artificial intelligence and its integration into my projects.</li>
+  <li>🛠️ Experimenting with Symfony, Next.js, and other backend technologies.</li>
+  <li>🎮 Interested in creating games and interactive 3D experiences.</li>
+  <li>🏋️‍♂️ Enjoys spearfishing, calisthenics, and football outside of coding.</li>
+</ul>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nadir-bensadi-847aab226/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bensadi.nadir42400@gmail.com) 
@@ -19,14 +24,15 @@ i'm currently learning about web
 
 <h2>✨ Goals</h2>
 <ul>
-  <li>🤖 Approfondir mes connaissances en intelligence artificielle.</li>
-  <li>🛠️ Explorer et intégrer Symfony avec Next.js pour mes projets.</li>
-  <li>💡 Expérimenter de nouvelles architectures backend pour améliorer mes compétences.</li>
-  <li>🌍 Travailler sur des projets innovants et collaboratifs.</li>
+  <li>🤖 Deepen my knowledge in artificial intelligence.</li>
+  <li>🛠️ Explore and integrate Symfony with Next.js for my projects.</li>
+  <li>🚀 Develop my own chatbot and API without using external AI.</li>
+  <li>💡 Experiment with new backend architectures to improve my skills.</li>
+  <li>🌍 Work on innovative and collaborative projects to enrich my portfolio.</li>
 </ul>
 
-<h2>📞 Contact me</h2>
+<h2>📞 Contact Me</h2>
 <ul>
-  <li>📧 Email : <a href="mailto:bensadi.nadir42400@gmail.com">bensadi.nadir42400@gmail.com</a></li>
-  <li>👨‍🎓 LinkedIn : <a href="https://www.linkedin.com/in/nadir-bensadi-847aab226/" target="_blank">Mon profil LinkedIn</a></li>
+  <li>📧 Email: <a href="mailto:bensadi.nadir42400@gmail.com">bensadi.nadir42400@gmail.com</a></li>
+  <li>👨‍🎓 LinkedIn: <a href="https://www.linkedin.com/in/nadir-bensadi-847aab226/" target="_blank">My LinkedIn Profile</a></li>
 </ul>
