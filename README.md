@@ -8,7 +8,7 @@
 </ul>
 
 # 💻 Tech Stack:
-!### IA & Engineering
+### IA & Engineering
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF9900?style=for-the-badge&logoColor=white) ![Context Engineering](https://img.shields.io/badge/Context%20Engineering-FF9900?style=for-the-badge&logoColor=white) ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white) ![Mistral](https://img.shields.io/badge/Mistral-F5F5F5?style=for-the-badge&logoColor=black) ![RAG](https://img.shields.io/badge/RAG-4CAF50?style=for-the-badge&logoColor=white) ![CAG](https://img.shields.io/badge/CAG-4CAF50?style=for-the-badge&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-252525?style=for-the-badge&logo=ollama&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ### Back End
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=langchain&logoColor=white)
